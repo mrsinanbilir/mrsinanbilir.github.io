@@ -1,3 +1,7 @@
 
 .DS_Store
 **/.DS_Store
+
+portfolio/assets/img/credentials/*.pdf
+portfolio/assets/img/credentials/*.jpeg
+portfolio/assets/img/credentials/*.png
